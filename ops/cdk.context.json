@@ -1,0 +1,11 @@
+{
+  "hosted-zone:account=105477061364:domainName=inqdocloud.tech:region=eu-central-1": {
+    "Id": "/hostedzone/Z0593551DKCTWJ7KWSPN",
+    "Name": "inqdocloud.tech."
+  },
+  "availability-zones:account=105477061364:region=eu-central-1": [
+    "eu-central-1a",
+    "eu-central-1b",
+    "eu-central-1c"
+  ]
+}
